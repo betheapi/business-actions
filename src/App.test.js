@@ -13,4 +13,4 @@ import { App } from './App';
   });
 
   expect(screen.getByText('Business Contacts')).toBeInTheDocument();
-});
+
